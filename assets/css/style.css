@@ -1,0 +1,11 @@
+@import 'fonts.css';
+@import 'nav.css';
+@import 'main.css';
+
+
+.not_iframe_body {
+	margin: 0;
+	/*background: #ecf0f1;*/
+	font-family: cursive;
+}
+
